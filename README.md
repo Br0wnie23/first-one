@@ -1,2 +1,3 @@
-# first-one
- primeiro repoitorio versionado
+# First one
+ primeiro repositório versionado
+Meu primeiro respositório
